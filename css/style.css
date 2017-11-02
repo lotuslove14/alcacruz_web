@@ -979,6 +979,9 @@ img.soon-badge-2 {
         width: 140px;
         margin-top: 4px;
     }
+    ul.cam-list li:first-child {
+        margin-left: 50px;
+    }
 }
 
 @media screen and (max-width: 450px) {
